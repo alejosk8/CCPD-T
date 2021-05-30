@@ -1,0 +1,12 @@
+__pycache__/
+.vscode/
+*.pyc
+.user_data_uid_*
+chromedriver_*
+config/odoo.conf
+.env
+.venv
+docker-compose.yaml
+xml_state.py
+filename.txt
+before*
